@@ -5,7 +5,9 @@
     --negro:#212121;
 }
 
-
+body{
+    background-color: var(--amarillo);
+}
 #container{
     width: 1400px;
     height: 750px;

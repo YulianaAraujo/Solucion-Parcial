@@ -1,9 +1,11 @@
 #about{
-    background-color: var(--azul);
+    
 }
 
 #container .wrapper-about{
+   height:775px ;
    margin: 18px 0px 0px 0px;
+   background-color: var(--azul);
 }
 
 .header{
@@ -27,7 +29,8 @@
     width: 245px;
     height: 710px;
     float: left;
-    position: relative;  
+    position: absolute;  
+    top: 18px;
 }
 
 .about-right img{
