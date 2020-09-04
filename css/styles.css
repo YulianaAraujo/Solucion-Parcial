@@ -72,17 +72,16 @@
     font-weight: 500;
     border-radius: 45px;
     background-color: var(--azul);
+    margin: 15px 15px;
 }
 
-#menu-navegacion a{
-    padding: 10px 15px 10px 15px; 
-}
 
 #menu-navegacion ul li a{
     color: var(--blanco);
     font-size: 16px;
     text-decoration: none;
-    display: inline-block 80px;
+    padding: 10px 15px 10px 15px; 
+
 }
 
 #menu-navegacion a:hover {
