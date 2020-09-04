@@ -15,8 +15,6 @@
 .logo strong{
     color: var(--blanco);
     font-family: 'Montserrat';
-    font-size: 25px;
-    vertical-align: 14px;
 }
 
 .nav-container{
@@ -43,10 +41,7 @@
 
 .parrafo{
     color: var(--blanco);
-    font-size: 21.5px;
-    font-family: 'Caveat Brush';
-    word-spacing: 2.2px;
-    letter-spacing: 1.2px;
+    font-family: 'Caveat Brush';    
 }
 
 .btn-principal{

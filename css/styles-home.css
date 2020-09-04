@@ -19,6 +19,15 @@
     position: relative;  
 }
 
+.logo strong{
+    font-size: 25px;
+    vertical-align: 14px;
+}
+
+.logo img{
+    width: 40px;
+    height: 54px;
+}
 
 .behind-left{
     width: 470px;
@@ -56,10 +65,13 @@
  }
 
 .info_container .parrafo{
+    font-size: 21.5px;
     position:absolute;
     left: 306px;
     top: 236px;
     text-align: center;
+    word-spacing: 2.2px;
+    letter-spacing: 1.2px;
     
 }
 
