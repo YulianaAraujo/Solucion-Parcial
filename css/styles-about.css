@@ -1,3 +1,7 @@
+#about{
+    background-color: var(--azul);
+}
+
 #container .wrapper-about{
    
     margin: 18px 0px 0px 0px;

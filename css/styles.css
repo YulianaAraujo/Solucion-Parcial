@@ -5,9 +5,6 @@
     --negro:#212121;
 }
 
-#about{
-    background-color: var(--azul);
-}
 
 #container{
     width: 1400px;
@@ -25,10 +22,7 @@
 .nav-container{
     float: right;
     position: relative;
-   
 }
-
-
 
 .social_media{
     width: 150px;
@@ -76,20 +70,22 @@
     display: inline;
     font-family: 'Montserrat';
     font-weight: 500;
-    padding: 13px 30px 10px 25px; 
     border-radius: 45px;
     background-color: var(--azul);
+}
+
+#menu-navegacion a{
+    padding: 10px 15px 10px 15px; 
 }
 
 #menu-navegacion ul li a{
     color: var(--blanco);
     font-size: 16px;
     text-decoration: none;
-    
+    display: inline-block 80px;
 }
 
-#menu-navegacion ul li:hover a:hover {
-    padding:  13px 20px 10px 20px; 
+#menu-navegacion a:hover {
     border-radius: 60px;
     background-color: var(--blanco);
     color: var(--azul);
