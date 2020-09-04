@@ -1,0 +1,21 @@
+#container .wrapper-about{
+   
+    margin: 18px 0px 0px 0px;
+}
+
+.about-left img{
+    width: 270px;
+    height: 750px;
+    padding: 17px 0px 0px 0px;
+    float: left;
+    position: relative;  
+}
+
+.about-right img{
+    width: 780px;
+    height: 720px;
+    padding: 0px 0px 0px 0px;
+    float: right;
+    position: relative;  
+
+}
