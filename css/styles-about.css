@@ -43,10 +43,10 @@
 
 .info_container .parrafo{
     font-size: 25px;
-    width: 365px;
     position:absolute;
     left: 250px;
     top: 315px;
+    width: 365px;
     text-align: justify; 
     text-align-last: center;
     word-spacing: 6px;
