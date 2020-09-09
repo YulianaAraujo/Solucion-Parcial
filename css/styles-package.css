@@ -1,0 +1,64 @@
+#container .wrapper-package{
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    margin: 18px 0px 0px 0px;
+    background-image: url(../images/background_package.png);
+}
+
+.header{
+    padding: 55px 85px 40px 240px;
+}
+
+.logo{
+    float: left;
+    position: relative;  
+}
+
+.logo img{
+    width: 40px;
+    height: 54px;
+}
+
+.logo strong{
+    font-size: 25px;
+    vertical-align: 14px;
+}
+
+
+.about-right img{
+    width: 650px;
+    position: absolute;  
+    left: 770px;
+    top: 200px;
+}
+
+.info_container .titulo{
+    width: 400px;
+    position:absolute;
+    left: 240px;
+    top: 112px;
+    text-align: center;
+    letter-spacing: 15px;
+    line-height: 102px;
+    font-size: 120px;
+ }
+
+.info_container .parrafo{
+    font-size: 25px;
+    position:absolute;
+    left: 230px;
+    top: 420px;
+    width: 400px;
+    text-align: justify; 
+    line-height: 25px;
+   
+}
+
+.info_container .btn-principal{
+    position:absolute;
+    padding: 0px 0px 0px 0px;
+    left: 360px;
+    top: 615px;
+    text-align: center;
+}

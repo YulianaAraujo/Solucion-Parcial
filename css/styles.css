@@ -37,7 +37,6 @@ body{
 
 .titulo{
     color: var(--blanco);
-    font-size: 88px;
     font-family: 'Caveat Brush';
 }
 
@@ -68,7 +67,6 @@ body{
     font-family: 'Montserrat';
     font-weight: 500;
     border-radius: 45px;
-    background-color: var(--azul);
     margin: 15px 15px;
 }
 
