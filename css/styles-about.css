@@ -1,6 +1,3 @@
-#about{
-    
-}
 
 #container .wrapper-about{
    height:775px ;
@@ -25,20 +22,15 @@
     top: 270px;
 }
 
-.about-left img{
-    width: 245px;
-    height: 710px;
+.about-left img{   
     float: left;
     position: absolute;  
     top: 18px;
 }
 
 .about-right img{
-    width: 930px;
-    height: 690px;
     float: right;
     position: relative;  
-
 }
 
 .info_container .parrafo{
