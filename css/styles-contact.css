@@ -1,0 +1,64 @@
+#container .wrapper-contact{
+    height:775px ;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    margin: 18px 0px 0px 0px;
+    background-image: url(../images/background_contact.png);
+ }
+ 
+ .header{
+     padding: 25px 85px 0px 0px;
+ }
+ 
+ .logo img{
+     width: 110px;
+     position:absolute;
+     left: 1005px;
+     top: 90px;
+ }
+ 
+ .logo strong{
+     font-size: 22px;
+     position:absolute;
+     left: 996px;
+     top: 230px;
+ }
+ 
+ 
+ .contact-left img{
+     width: 765px;
+     height: 696px ;
+     float: left;
+     position: relative;  
+ }
+ 
+ .info_container .titulo{
+    width: 600px;
+    position:absolute;
+    left: 850px;
+    top: 210px;
+    font-size: 75px;
+    letter-spacing: 3px;
+ }
+
+ .info_container .parrafo{
+     font-size: 28px;
+     position:absolute;
+     left: 855px;
+     top: 350px;
+     width: 420px;
+     text-align: justify; 
+     text-align-last: center;
+     word-spacing: 7px;
+     line-height: 28px;
+ }
+ 
+ .hashtag{
+     font-family: 'Caveat Brush';
+     color: var(--blanco);
+     font-size: 70px;
+     position:absolute;
+     left: 905px;
+     top: 536px;
+     letter-spacing: 0.5px;
+ }
