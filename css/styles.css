@@ -6,7 +6,7 @@
 }
 
 body{
-    -webkit-background-color: var(--amarillo);
+    background-color: var(--amarillo);
 }
 
 #container{
@@ -16,30 +16,30 @@ body{
 }
 
 .logo strong{
-    -webkit-color: var(--blanco);
+    color: var(--blanco);
     font-family: 'Montserrat';
 }
 
 .nav-container{
     float: right;
     position: relative;
-    -webkit-background-color: #f7e056;
+    background-color: #f7e056;
 }
 
 .titulo{
-    -webkit-color: var(--blanco);
+    color: var(--blanco);
     font-family: 'Caveat Brush';
 }
 
 
 .parrafo{
-    -webkit-color: var(--blanco);
+    color: var(--blanco);
     font-family: 'Caveat Brush';    
 }
 
 
 .btn-principal{
-    -webkit-color: var(--negro);
+    color: var(--negro);
     font-size: 20px;
     background: var(--amarillo);
     padding: 2.5px 5px 5px 3.5px; 
@@ -49,7 +49,7 @@ body{
     border-radius: 60px;
     border:2px solid var(--negro);
     font-family: 'Caveat Brush';
-    -webkit-box-shadow: 0px 3.5px 5px rgba(0, 0, 0, 0.45); ;
+    box-shadow: 0px 3.5px 5px rgba(0, 0, 0, 0.45); ;
  
 }
 
@@ -64,7 +64,7 @@ body{
 
 
 #menu-navegacion ul li a{
-    -webkit-color: var(--blanco);
+    color: var(--blanco);
     font-size: 16px;
     text-decoration: none;
     padding: 10px 15px 10px 15px; 
@@ -73,8 +73,8 @@ body{
 
 #menu-navegacion a:hover {
     border-radius: 60px;
-    -webkit-background-color: var(--blanco);
-    -webkit-color: var(--azul);
+    background-color: var(--blanco);
+    color: var(--azul);
     font-weight: 700;
    
 }
