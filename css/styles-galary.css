@@ -1,0 +1,64 @@
+#container .wrapper-galery{
+    height:775px ;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    margin: 18px 0px 0px 0px;
+    background-image: url(../images/background_galery.png);
+ }
+ 
+ .header{
+     padding: 25px 85px 0px 0px;
+ }
+ 
+ .logo img{
+     width: 110px;
+     position:absolute;
+     left: 360px;
+     top: 60px;
+ }
+ 
+ .logo strong{
+     font-size: 22px;
+     position:absolute;
+     left: 350px;
+     top: 210px;
+ }
+ 
+ 
+ .galery-right img{
+     width: 765px;
+     height: 696px ;
+     left: 620px;
+     position: relative; 
+ }
+ 
+ .info_container .titulo{
+    width: 600px;
+    position:absolute;
+    left: 200px;
+    top: 210px;
+    font-size: 80px;
+ }
+
+ .info_container .parrafo{
+     font-size: 28px;
+     position:absolute;
+     left: 210px;
+     top: 365px;
+     width: 420px;
+     text-align: justify; 
+     text-align-last: center;
+     word-spacing: 7px;
+     line-height: 28px;
+ }
+ 
+ .hashtag{
+     font-family: 'Caveat Brush';
+     color: var(--blanco);
+     font-size: 65px;
+     position:absolute;
+     left: 250px;
+     top: 540px;
+     letter-spacing: 0.5px;
+ }
+ 
