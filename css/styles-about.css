@@ -47,7 +47,7 @@
 
 .hashtag{
     font-family: 'Caveat Brush';
-    color: var(--blanco);
+    -webkit-color: var(--blanco);
     font-size: 54px;
     position:absolute;
     left: 300px;
@@ -72,7 +72,7 @@
     }
 
 .social_media a{
-    color: var(--blanco);
+    -webkit-color: var(--blanco);
     font-size: 12px;
     text-decoration: none;
     font-family: 'Caveat Brush';
