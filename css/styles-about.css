@@ -54,3 +54,27 @@
     top: 545px;
     letter-spacing: 0.5px;
 }
+
+.social_media{
+    width: 600px;
+    height: 50px;
+    float:right;
+    position: absolute;
+    left: 190px;
+    top: 725px;
+    vertical-align: middle;
+}
+
+.social_media img{
+    width: 30px;
+    padding: 0px 10px 0px 30px;
+    vertical-align: middle;
+    }
+
+.social_media a{
+    color: var(--blanco);
+    font-size: 12px;
+    text-decoration: none;
+    font-family: 'Caveat Brush';
+    letter-spacing: 0.8px;
+}

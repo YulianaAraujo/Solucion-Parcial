@@ -62,3 +62,17 @@
     top: 615px;
     text-align: center;
 }
+
+.social_media{
+    width: 300px;
+    height: 65px;
+    float:right;
+    position: absolute;
+    left: 370px;
+    top: 710px;
+}
+
+.social_media img{
+    width: 30px;
+    margin: 3px 3px;
+}
