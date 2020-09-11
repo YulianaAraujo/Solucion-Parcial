@@ -25,7 +25,7 @@ body{
     position: relative;
 }
 
-.titulo .parrafo{
+.titulo, .parrafo{
     color: var(--blanco);
     font-family: 'Caveat Brush';
 }
