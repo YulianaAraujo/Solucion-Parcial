@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: var(--amarillo);
+    background: var(--amarillo);
 }
 
 #container{
