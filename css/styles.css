@@ -25,17 +25,10 @@ body{
     position: relative;
 }
 
-.titulo{
+.titulo .parrafo{
     color: var(--blanco);
     font-family: 'Caveat Brush';
 }
-
-
-.parrafo{
-    color: var(--blanco);
-    font-family: 'Caveat Brush';    
-}
-
 
 .btn-principal{
     color: var(--negro);
